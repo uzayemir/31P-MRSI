@@ -1,5 +1,7 @@
 # Ultra-Short Echo Time 31P 3D MRSI at 3T with Novel Rosette k-space Trajectory
-#
+
+#AUTHORS
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/authors.jpg?raw=true)
 
 Our group proposes a 31-P MRSI sequence utilizing Rosette-Petal shaped 3D k-space 
 acquisition to achieve 1 mL isotropic resolution (10x10x10mm^3) over a FOV of 480x480x480mm^3 
