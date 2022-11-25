@@ -1,5 +1,9 @@
 # Ultra-Short Echo Time 31P 3D MRSI at 3T with Novel Rosette k-space Trajectory
 
+
+# ISMRM Repeat It With Me: Reproducibility Team Challenge
+# >>> Seeking Person Reproducing our Sequences <<<
+
 # AUTHORS
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/authors.jpg?raw=true)
 
