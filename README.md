@@ -16,14 +16,14 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ### Lcmodel findings of accelaration factor = 1 
 
-![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/acc1_23_27_24.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc1_23_27_24.jpg?raw=true)
 
 
 ### Lcmodel findings of accelaration factor = 2
 
-![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/acc2_23_27_24.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc2_23_27_24.jpg?raw=true)
 
 
 ### Lcmodel findings of accelaration factor = 4
 
-![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/acc4_23_27_24.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc4_23_27_24.jpg?raw=true)
