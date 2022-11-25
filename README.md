@@ -1,2 +1,2 @@
 # 31P-MRSI
-3D UTE Rosette 31P-MRSI with LCModel analysis
+#Ultra-Short Echo Time 31P 3D MRSI at 3T with Novel Rosette k-space Trajectory
