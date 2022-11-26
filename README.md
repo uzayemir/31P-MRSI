@@ -50,7 +50,9 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc4_23_27_24.jpg?raw=true)
 
 
+https://www.youtube.com/watch?v=ujU8WiZdrcM
 
+https://www.researchgate.net/publication/358462656_Ultra-Short_Echo_Time_31P_3D_MRSI_at_3T_with_Novel_Rosette_k-space_Trajectory
 
 Shen, Xin, et al. "Ultra-short T2 components imaging of the whole brain using 3D dual-echo UTE MRI 
 with rosette k-space pattern." Magnetic Resonance in Medicine (2022).
