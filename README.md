@@ -4,6 +4,8 @@
 # ISMRM Repeat It With Me: Reproducibility Team Challenge
 # >>> Seeking Person Reproducing our Sequences <<<
 
+# ISMRM Workshop on MR Imaging of X‐Nuclei (23Na & Friends): 02 February 2022
+
 # AUTHORS
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/authors.jpg?raw=true)
 
