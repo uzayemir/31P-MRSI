@@ -56,8 +56,9 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc4_23_27_24.jpg?raw=true)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ujU8WiZdrcM/0.jpg)](https://www.youtube.com/watch?v=ujU8WiZdrcM)
 
-https://www.youtube.com/watch?v=ujU8WiZdrcM
+
 
 https://www.researchgate.net/publication/358462656_Ultra-Short_Echo_Time_31P_3D_MRSI_at_3T_with_Novel_Rosette_k-space_Trajectory
 
