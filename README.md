@@ -52,11 +52,11 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1atps.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1atps.png?raw=true)
 
 ####inorganic phosphate (Pi)/PCr
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1pi.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1pi.png?raw=true)
 
 ### Lcmodel findings of accelaration factor = 2
 
@@ -65,11 +65,11 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2atps.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2atps.png?raw=true)
 
 ####inorganic phosphate (Pi)/PCr
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2pi.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2pi.png?raw=true)
 
 
 ### Lcmodel findings of accelaration factor = 4
@@ -78,11 +78,11 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4atps.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4atps.png?raw=true)
 
 ####inorganic phosphate (Pi)/PCr
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4pi.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4pi.png?raw=true)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ujU8WiZdrcM/0.jpg)](https://www.youtube.com/watch?v=ujU8WiZdrcM)
 
