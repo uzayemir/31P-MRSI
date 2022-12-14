@@ -50,11 +50,11 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc1_23_27_24.jpg?raw=true)
 
-####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
+#### (α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1atps.png?raw=true)
 
-####inorganic phosphate (Pi)/PCr
+#### inorganic phosphate (Pi)/PCr
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1pi.png?raw=true)
 
@@ -63,11 +63,11 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc2_23_27_24.jpg?raw=true)
 
 
-####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
+#### (α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2atps.png?raw=true)
 
-####inorganic phosphate (Pi)/PCr
+#### inorganic phosphate (Pi)/PCr
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2pi.png?raw=true)
 
@@ -76,11 +76,11 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc4_23_27_24.jpg?raw=true)
 
-####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
+#### (α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4atps.png?raw=true)
 
-####inorganic phosphate (Pi)/PCr
+#### inorganic phosphate (Pi)/PCr
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4pi.png?raw=true)
 
