@@ -42,21 +42,51 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ## Results 
 
+ (α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) and inorganic phosphate (Pi)/PCr
+ 
+ 
+
 ### Lcmodel findings of accelaration factor = 1 
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc1_23_27_24.jpg?raw=true)
 
+####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1atps.jpg?raw=true)
+
+####inorganic phosphate (Pi)/PCr
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex1pi.jpg?raw=true)
 
 ### Lcmodel findings of accelaration factor = 2
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc2_23_27_24.jpg?raw=true)
 
 
+####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2atps.jpg?raw=true)
+
+####inorganic phosphate (Pi)/PCr
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex2pi.jpg?raw=true)
+
+
 ### Lcmodel findings of accelaration factor = 4
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/acc4_23_27_24.jpg?raw=true)
 
+####(α-ATP+β-ATP+γ-ATP)/phosphocreatine (PCr) 
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4atps.jpg?raw=true)
+
+####inorganic phosphate (Pi)/PCr
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/imagex4pi.jpg?raw=true)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ujU8WiZdrcM/0.jpg)](https://www.youtube.com/watch?v=ujU8WiZdrcM)
+
+
 
 
 
