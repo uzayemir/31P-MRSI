@@ -95,7 +95,7 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 ### Cardiac 31P MRSI 
 ### PCr map
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/Fkmyq9mXEAE410X.jpg?raw=true)
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/CARDIAC.PNG?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/CARDIAC.png?raw=true)
 
 
 
