@@ -101,7 +101,7 @@ In order to achieve the acceptable acquisition timing in clinical settings (reco
 
 ## Spatial Response Function Analysis
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/Figure6.svg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/figure6.svg?raw=true)
 
 
 https://www.researchgate.net/publication/358462656_Ultra-Short_Echo_Time_31P_3D_MRSI_at_3T_with_Novel_Rosette_k-space_Trajectory
