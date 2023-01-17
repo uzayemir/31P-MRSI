@@ -4,6 +4,10 @@
 # ISMRM Repeat It With Me: Reproducibility Team Challenge
 # >>> Seeking Person Reproducing our Sequences <<<
 
+Use the following link to download post-processing and sequence files 
+
+https://purr.purdue.edu/projects/ismrm31pmrsi
+
 # ISMRM Workshop on MR Imaging of X‐Nuclei (23Na & Friends): 02 February 2022
 
 # AUTHORS
