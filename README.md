@@ -120,6 +120,7 @@ Whole Brain
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/FonduVwXEAAdmjn.jpg?raw=true)
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/Fond8bkX0AYF5AV.jpg?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/lcmodel.png?raw=true)
 
 
 
