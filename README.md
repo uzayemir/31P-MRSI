@@ -119,9 +119,14 @@ Courtesy of Alex Craig-Craven
 Whole Brain 
 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/FonduVwXEAAdmjn.jpg?raw=true)
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/Fond8bkX0AYF5AV.jpg?raw=true)
+
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/lcmodel.png?raw=true)
 
+Courtesy of Seyma Alcicek
+
+Whole Brain 
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/FqEJ81xWYAQbTXL.jpg?raw=true)
 
 
 https://www.researchgate.net/publication/358462656_Ultra-Short_Echo_Time_31P_3D_MRSI_at_3T_with_Novel_Rosette_k-space_Trajectory
