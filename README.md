@@ -9,8 +9,8 @@ Use the following link to download post-processing and sequence files
 https://purr.purdue.edu/projects/ismrm31pmrsi
 
 
-#Accelaration x2 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/authors.jpg?raw=true)
+# Accelaration x2 
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PMRSIx2.png ?raw=true)
 
 # ISMRM Workshop on MR Imaging of X‐Nuclei (23Na & Friends): 02 February 2022
 
