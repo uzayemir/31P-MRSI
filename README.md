@@ -1,18 +1,13 @@
 # Ultra-Short Echo Time 31P 3D MRSI at 3T with Novel Rosette k-space Trajectory
 
-
-# ISMRM Repeat It With Me: Reproducibility Team Challenge
-# >>> Seeking Person Reproducing our Sequences <<<
-
 Use the following link to download post-processing and sequence files 
-
 https://purr.purdue.edu/projects/ismrm31pmrsi
 
 
 # Accelaration x2 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PMRSIx2.png ?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PMRSIx2.png?raw=true)
 
-# ISMRM Workshop on MR Imaging of X‐Nuclei (23Na & Friends): 02 February 2022
+
 
 # AUTHORS
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/authors.jpg?raw=true)
