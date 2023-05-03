@@ -3,6 +3,10 @@
 Use the following link to download post-processing and sequence files 
 https://purr.purdue.edu/projects/ismrm31pmrsi
 
+# ATP/PCr Accelaration x4 
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PMRSIx2.png?raw=true)
+
+
 
 # ATP/PCr Accelaration x2 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PMRSIx2.png?raw=true)
