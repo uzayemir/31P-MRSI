@@ -3,6 +3,11 @@
 Use the following link to download post-processing and sequence files 
 https://purr.purdue.edu/projects/ismrm31pmrsi
 
+
+### Cardiac 31P MRSI 
+### PCr map
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PRAPIDSurfaceCoilLiver.png?raw=true)
+
 # ATP/PCr Accelaration x4 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/accelaration_UTE_MRSI2.png?raw=true)
 
