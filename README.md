@@ -10,7 +10,7 @@ https://purr.purdue.edu/projects/ismrm31pmrsi
 # Seyma Alcicek, Goethe University Frankfurt
 # Alexander Richard Craig-Craven, University of Bergen
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ujU8WiZdrcM/0.jpg)](https://www.youtube.com/watch?v=k-fSdqBT_9o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k-fSdqBT_9o/0.jpg)](https://www.youtube.com/watch?v=k-fSdqBT_9o)
 
 
 
