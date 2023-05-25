@@ -12,7 +12,10 @@ https://purr.purdue.edu/projects/ismrm31pmrsi
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k-fSdqBT_9o/0.jpg)](https://www.youtube.com/watch?v=k-fSdqBT_9o)
 
+https://youtu.be/qQSBB_Lwarc
+# Comparison of Compressed Sensing Accelerated Rosette UTE and Conventional 31P 3D MRSI at 3T in Leg Muscle
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qQSBB_Lwarc/0.jpg)](https://youtu.be/qQSBB_Lwarc)
 
 ### Cardiac 31P MRSI 
 ### PCr map
