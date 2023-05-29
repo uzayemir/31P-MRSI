@@ -12,7 +12,7 @@ https://purr.purdue.edu/projects/ismrm31pmrsi
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k-fSdqBT_9o/0.jpg)](https://www.youtube.com/watch?v=qQSBB_Lwarc)
 
-#Fast 3D 31P MRSI Using Custom Rosette Petal Trajectory at 3T with 4x Accelerated Compressed Sensing
+# Fast 3D 31P MRSI Using Custom Rosette Petal Trajectory at 3T with 4x Accelerated Compressed Sensing
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qQSBB_Lwarc/0.jpg)](https://www.youtube.com/watch?v=k-fSdqBT_9o)
 
 # Comparison of Compressed Sensing Accelerated Rosette UTE and Conventional 31P 3D MRSI at 3T in Leg Muscle
