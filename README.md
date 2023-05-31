@@ -3,6 +3,15 @@
 Use the following link to download post-processing and sequence files 
 https://purr.purdue.edu/projects/ismrm31pmrsi
 
+# The Community Feedback 
+
+# "after 40 years, modern technology means clinical 31P MRs is finally feasible"
+
+
+
+# The ISMRM Challenge Committee Feedback 
+The judges would like to commend both sub-teams for taking on this Challenge! We’d like to provide you with some suggestions for future reproducibility efforts. To establish objective criteria for success in the preregistration (e.g. mean difference below a certain threshold) would improve the final evaluation of the effort. To eliminate any variability in a subsequent reproduction, we’d suggest compiling and releasing a processing pipeline and releasing the data acquired during reproduction. On the overall, this was a good reproduction effort!
+
 # REPORT: 2022-23 ISMRM Challenge Repeat It With Me: Reproducibility Team Challenge
 ## Ultra-Short Echo Time 31P 3D MRSI at 3Twith Novel Rosette k-space Trajectory
 ## Original Authors: Uzay E Emir
