@@ -5,6 +5,8 @@ https://purr.purdue.edu/projects/ismrm31pmrsi
 
 # Congratulations to the team; the 31P #MRS #Reproducibility Team got 2nd place.
 
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/resultismrm.jpg?raw=true)
+
 ## Ultrashort echo time (50 us) 31P 3D Rosette MRS Reproducibility Challenge make 31P #MRS a clinically viable option, and it is now appropriate to develop and evaluate protocols suitable for clinical practice and use them to investigate metabolism.
 
 ### Ulrich Pilatus Goethe University Frankfurt
