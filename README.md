@@ -3,6 +3,18 @@
 Use the following link to download post-processing and sequence files 
 https://purr.purdue.edu/projects/ismrm31pmrsi
 
+# Congratulations to the team; the 31P #MRS #Reproducibility Team got 2nd place.
+
+## Ultrashort echo time (50 us) 31P 3D Rosette MRS Reproducibility Challenge make 31P #MRS a clinically viable option, and it is now appropriate to develop and evaluate protocols suitable for clinical practice and use them to investigate metabolism.
+
+### Ulrich Pilatus Goethe University Frankfurt
+### Seyma Alcicek Goethe University Frankfurt 
+### Alexander Richard Craig-Craven University of Bergen 
+
+
+
+
+
 # The Community Feedback 
 
 # "after 40 years, modern technology means clinical 31P MRs is finally feasible"
