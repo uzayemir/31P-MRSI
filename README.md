@@ -3,7 +3,8 @@
 
 # Multi-site Ultrashort Echo Time 3D Phosphorous MRSI repeatability using novel Rosette Trajectory (PETALUTE)
 
-<a href="[https://www.something.com](https://www.biorxiv.org/content/10.1101/2024.02.07.579294v1)"> Something </a>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.07.579294v1"> Multi-site Ultrashort Echo Time 3D Phosphorous MRSI repeatability using novel Rosette Trajectory (PETALUTE) </a>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EeMhpZOtl1g/0.jpg)](https://www.youtube.com/watch?v=EeMhpZOtl1g)
 
 
