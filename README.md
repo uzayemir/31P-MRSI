@@ -1,6 +1,11 @@
 # Ultra-Short Echo Time 31P 3D MRSI at 3T with Novel Rosette k-space Trajectory
 
 
+# Multi-site Ultrashort Echo Time 3D Phosphorous MRSI repeatability using novel Rosette Trajectory (PETALUTE)
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qQSBB_Lwarc/0.jpg)](https://www.youtube.com/watch?v=-6hfmjRtzKs)
+
 # Data Sharing is loading. All data and LCModel outputs have been transferred to the FSL-MRS NIFTI file. 
 ![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/31PMRSI.png?raw=true)
 
