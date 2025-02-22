@@ -1,11 +1,10 @@
 
 # 7T MRSI USing Modified Rosette PETALUTE
 
-![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/7T31PMRSI.png?raw=true)
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/7T31PMRSI2.png?raw=true)
 
 
 # Feasibility and Comparison of 3D Modified Rosette Ultra-Short Echo Time (PETALUTE) with Conventional Weighted Acquisition in 31P-MRSI
-<a href="https://www.researchgate.net/publication/389004905_Feasibility_and_Comparison_of_3D_Modified_Rosette_Ultra-Short_Echo_Time_PETALUTE_with_Conventional_Weighted_Acquisition_in_31P-MRSI"> Feasibility and Comparison of 3D Modified Rosette Ultra-Short Echo Time (PETALUTE) with Conventional Weighted Acquisition in 31P-MRSI </a>
 
 <a href="https://rdcu.be/eaRQe"> Feasibility and Comparison of 3D Modified Rosette Ultra-Short Echo Time (PETALUTE) with Conventional Weighted Acquisition in 31P-MRSI </a>
 
